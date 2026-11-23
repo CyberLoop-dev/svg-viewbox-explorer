@@ -1,0 +1,12 @@
+{
+  "name": "svg-viewbox-explorer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An interactive SVG viewport lab for viewBox dimensions and preserveAspectRatio alignment modes.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
